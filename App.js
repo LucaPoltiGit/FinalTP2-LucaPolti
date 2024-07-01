@@ -1,0 +1,1 @@
+import sequalize from 'sequalize'
